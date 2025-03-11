@@ -29,3 +29,19 @@ discount = sum * 0.15
 
 # F-strings (formatted strings)
 print(f"Hello {name}! Your total is ${sum - discount:.2f}")
+
+# Conditional statement
+if is_beginner:
+    print("Let's start learning!")
+else:
+    print("Keep practicing!")
+
+# Simple for loop
+for i in range(3):
+    print(f"Day {i+1} of 100: Progress!")
+```
+
+---
+
+## 📂 Project: Simple Calculator
+[calc.py](day_1/calc.py)
