@@ -44,4 +44,4 @@ for i in range(3):
 ---
 
 ## 📂 Project: Simple Calculator
-[calc.py](day_1/calc.py)
+[calc.py](calc.py)
